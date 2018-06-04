@@ -14,8 +14,7 @@ You can run `learn` to see if the tests are passing.
 
 2. Using a method built into ruby, capitalize every letter in the string you just created
 
-3. Now let's make all the characters lowercase in the string `"IM NOT SHOUTING"`
-
+3. Now let's make all the characters lowercase in the string `"IM NOT SHOUTING"
 4. Using a method built into ruby, count how many letters are in the string `"supercalifragilisticexpialidocious"`
 
 5. Now let's add more words to that string, using `+` just like in math. That's called concatenation. Let's add together to the two strings `"wow"` and `"mom"`.
